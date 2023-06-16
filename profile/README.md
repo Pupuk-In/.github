@@ -54,12 +54,11 @@ Since our app is an e-marketplace platform, we have implemented some of the stan
 
 # Resources Used
 - <b> Cloud & Backend: </b>
-  - Google Cloud Platform Services:
-    - Cloud Run
-    - Cloud SQL
-    - Cloud Storage
-  - Laravel (PHP)
-  - FastAPI
+  - [Google Cloud Platform](https://cloud.google.com/) Services:
+    - [Cloud Run](https://cloud.google.com/run)
+    - [Cloud SQL](https://cloud.google.com/sql)
+    - [Cloud Storage](https://cloud.google.com/storage)
+  - [Larvel (PHP)](https://laravel.com/)
 - <b> Machine Learning: </b>
   - [Python](https://www.python.org/)
   - [Tensorflow](https://www.tensorflow.org/)
