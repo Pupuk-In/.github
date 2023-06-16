@@ -1,7 +1,9 @@
 <p align="center">
   <h1 align="center"><b>Pupuk.In</b></h1>
 </p>
-
+<p align="center">
+  <img src="https://github.com/Pupuk-In/Machine-Learning/assets/87064650/23e6576c-c46d-4f67-a41d-3c7da3cd82fb" alt="pupukin-logo">
+</p>
 
 Pupuk.In is an E-Marketplace platform specializing in fertilizer products. Our app incorporates a machine learning model to provide an enhanced experience for users. Users can take pictures of their crops, and the app will utilize image recognition to detect nutrient deficiencies in the crops. Based on the detected deficiencies, the app will recommend suitable products to address the specific needs of the crops.
 
@@ -9,25 +11,31 @@ Since our app is an e-marketplace platform, we have implemented some of the stan
 - User Registration and Authentication:
 <br /> Users can create an account and log in to access the application's features and perform transactions.
 
-- Product Listings:
-<br /> Sellers can create product listings with details such as title, description, price, images, and other relevant information.
-
 - Search and Filters:
 <br /> Users can search for products based on keywords, categories, filters, or specific criteria to find relevant items.
-
-- Shopping Cart:
-<br /> Users can add products to their cart while browsing and review their selected items before proceeding to checkout.
-
-- Order Management:
-<br /> Users can view and manage their orders, including order history, tracking, and order status updates.
-
-- Seller Profiles:
-<br /> Sellers have dedicated profiles to showcase their products, ratings, reviews, and other relevant information.
 
 - Wishlist:
 <br /> Users can create a wishlist of products for future reference or quick access.
 
+- Shopping Cart:
+<br /> Users can add products to their cart while browsing and review their selected items before proceeding to checkout.
 
+- Seller Profiles:
+<br /> Sellers have dedicated profiles to showcase their products, ratings, reviews, and other relevant information.
+
+- Product Listings:
+<br /> Sellers can create product listings with details such as title, description, price, images, and other relevant information.
+
+- Order Management:
+<br /> Users can view and manage their orders, including order history, tracking, and order status updates.
+
+- Nutrient Deficiency Detector:
+<br /> Able to detect nutrient deficiencies in the crops based on picture.
+
+- Product Search Relevance:
+<br /> Able to sort searched product by relevance.
+
+<br>
 # Team Details
 
 ### Team ID: C23-PS295
