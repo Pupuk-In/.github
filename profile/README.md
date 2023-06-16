@@ -1,9 +1,11 @@
 <p align="center">
   <h1 align="center"><b>Pupuk.In</b></h1>
 </p>
+
 <p align="center">
-  <img src="https://github.com/Pupuk-In/Machine-Learning/assets/87064650/23e6576c-c46d-4f67-a41d-3c7da3cd82fb" alt="pupukin-logo">
+  <img src="https://github.com/Pupuk-In/.github/assets/87064650/2db0c8de-65c6-4f6e-81ba-645db1219d31" alt="pupukin-logo" width="400px">
 </p>
+
 
 Pupuk.In is an E-Marketplace platform specializing in fertilizer products. Our app incorporates a machine learning model to provide an enhanced experience for users. Users can take pictures of their crops, and the app will utilize image recognition to detect nutrient deficiencies in the crops. Based on the detected deficiencies, the app will recommend suitable products to address the specific needs of the crops.
 
