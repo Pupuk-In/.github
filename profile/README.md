@@ -36,6 +36,7 @@ Since our app is an e-marketplace platform, we have implemented some of the stan
 <br /> Able to sort searched product by relevance.
 
 <br>
+
 # Team Details
 
 ### Team ID: C23-PS295
