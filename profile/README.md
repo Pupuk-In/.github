@@ -61,7 +61,11 @@ Since our app is an e-marketplace platform, we have implemented some of the stan
   - Laravel (PHP)
   - FastAPI
 - <b> Machine Learning: </b>
-  - <i> Tolong isi disini </i>
+  - [Python](https://www.python.org/)
+  - [Tensorflow](https://www.tensorflow.org/)
+  - [FastAPI](https://fastapi.tiangolo.com/id/)
+  - [Kaggle Datasets](https://www.kaggle.com/)
+  - [Huggingface datasets](https://huggingface.co/docs/datasets/index)
 - <b> Mobile Development: </b>
   - [Kotlin](https://kotlinlang.org/)
   - [Retrofit2](https://kotlinlang.org/)
